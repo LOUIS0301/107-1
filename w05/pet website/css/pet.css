@@ -1,0 +1,24 @@
+header{
+    width: 800px;
+    height: 100px;
+    background-color: black;
+}
+aside{
+    width: 170px;
+    height: 400px;
+    background: url(../images/bg_lt.png);
+    float: left
+        
+}
+article{
+    width: 621px;
+    height: 400px;
+    margin-left: 179px;
+    background-color: aqua
+    
+}
+footer{
+    width: 800px;
+    height: 100px;
+    background-color: black;
+}
