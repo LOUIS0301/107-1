@@ -6,7 +6,7 @@ header{
 aside{
     width: 170px;
     height: 400px;
-    background: url(../images/bg_lt.png);
+    background-image: url(../images/bg_lt.png);
     float: left
         
 }
@@ -21,4 +21,31 @@ footer{
     width: 800px;
     height: 100px;
     background-color: black;
+}
+nav{
+    margin-top: 156px;
+
+
+}
+nav ul{
+    padding: 9px;
+    list-style: none;
+    
+
+}
+nav ul li a{
+    
+    display: block;
+    width: 150px;
+    height: 42ps;
+    background-image: url(../images/btn.png);
+    text-indent: 50px;
+    line-height: 35px;
+    padding: 4.3px;
+    
+}
+nav ul li a:hover{
+    color: white;
+    background-image: url(../images/btn_hover.png)
+    
 }
