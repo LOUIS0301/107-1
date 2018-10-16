@@ -14,7 +14,7 @@ article{
     width: 621px;
     height: 400px;
     margin-left: 179px;
-    background-color: aqua
+    background-color: white;
     
 }
 footer{
@@ -23,12 +23,12 @@ footer{
     background-color: black;
 }
 nav{
-    margin-top: 156px;
+    margin-top: 163px;
 
 
 }
 nav ul{
-    padding: 9px;
+    padding: 8px;
     list-style: none;
     
 
@@ -37,15 +37,20 @@ nav ul li a{
     
     display: block;
     width: 150px;
-    height: 42ps;
+    height: 34px;
     background-image: url(../images/btn.png);
-    text-indent: 50px;
-    line-height: 35px;
+    text-indent: 46px;
+    line-height: 25px;
     padding: 4.3px;
     
 }
 nav ul li a:hover{
     color: white;
     background-image: url(../images/btn_hover.png)
+    
+}
+body{
+    
+
     
 }
