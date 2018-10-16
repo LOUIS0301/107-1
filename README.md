@@ -1,9 +1,9 @@
 # 107-1
 
-Week 1
+## Week 1
 * intro.html
 
-Week 2
+## Week 2
 * table.html
 * myclass.html
 
@@ -18,3 +18,6 @@ Week 4
 
 Week 5
 * imagegallery.html, imagegallery.css
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NDQ2NDE0OTJdfQ==
+-->
