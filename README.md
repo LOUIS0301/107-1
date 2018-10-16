@@ -2,11 +2,11 @@
 
 ## Week 1
 
-* intro.html
+* [intro.html](http://127.0.0.1:1236/w01/intro.html)
 
 ## Week 2
-* table.html
-* myclass.html
+* [table.html](http://127.0.0.1:1236/w02/table.html)
+* [myclass.html](http://127.0.0.1:1236/w02/myclass.html)
 
 ## Week 3
 * tku60.html
@@ -20,5 +20,5 @@
 ## Week 5
 * imagegallery.html, imagegallery.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTkyMTAyNF19
+eyJoaXN0b3J5IjpbMTczMzUzOTQwNywtOTg5OTIxMDI0XX0=
 -->
