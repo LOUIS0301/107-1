@@ -29,3 +29,5 @@
 eyJoaXN0b3J5IjpbNDk5NDQ4OTE4LDI4ODE2NTk1NCwtOTg5OT
 IxMDI0XX0=
 -->
+## Week 7
+-   [TKUassignment.html]
