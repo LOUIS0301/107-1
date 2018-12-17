@@ -1,0 +1,89 @@
+#petweb {
+    font-family: Arial;
+    background-image: url(../images/bg.jpg);
+}
+
+header {
+    width: 800px;
+    height: 80px;
+    background-color: black;
+}
+
+h1#text1 {
+    position: absolute;
+    color: #FF0000;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+h1#text2 {
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+aside {
+    width: 170px;
+    height: 400px;
+    background-image: url(../images/bg_lt.png);
+    float: left
+}
+
+article {
+    width: 621px;
+    height: 400px;
+    margin-left: 179px;
+    background-color: white;
+}
+
+footer {
+    width: 800px;
+    height: 60px;
+    background-color: black;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 48px;
+    
+}
+
+nav {
+    margin-top: 163px;
+}
+
+#petweb nav ul {
+    padding: 8px;
+    list-style: none;
+}
+
+#petweb nav ul li a {
+    display: block;
+    width: 150px;
+    height: 34px;
+    background-image: url(../images/btn.png);
+    text-indent: 46px;
+    line-height: 25px;
+    padding: 4.3px;
+}
+
+#petweb nav ul li a:hover {
+    color: white;
+    background-image: url(../images/btn_hover.png)
+}
+img{
+    width: 120px;
+    border-radius: 15px;
+    
+}
+.consection{
+    width: 400px;
+    margin: 0px auto;
+    padding: 20px;
+}
+fieldset{
+    border-radius: 8px;
+    font-family: 微軟正黑體;
+}
+fieldset legend{
+    text-align: center;
+}
