@@ -31,6 +31,7 @@ IxMDI0XX0=
 -->
 ## Week 7
 -   [TKUassignment.html](https://louis0301.github.io/107-1/w07/tkuassignment.html)
+-  [galleryTemplate.html](https://louis0301.github.io/107-1/w07/galleryTemplate.html)
 
 ## Week 8
 -   [Pattern.html](https://louis0301.github.io/107-1/w09/w08/pattern.html)
